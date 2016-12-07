@@ -1,0 +1,17 @@
+.input-group
+{
+    margin: 20px 0;
+}
+
+td,
+th
+{
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+td:first-of-type
+{
+    width: 250px;
+    height: 200px;
+}
